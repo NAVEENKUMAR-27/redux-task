@@ -1,0 +1,22 @@
+.button_style {
+    justify-content: center;
+}
+.text_style{
+    align-items: center;
+
+}
+.increment_btn{
+    background-color: rgb(37, 214, 37) !important;
+}
+.decrement_btn{
+    background-color: rgb(255, 52, 41) !important;
+}
+.bg_counter{
+    background-color: aliceblue;
+    border-radius: 10px;
+    border: 2px solid rgb(186, 207, 226);
+}
+.reset_btn{
+    background-color: rgb(241, 173, 0) !important;
+
+}
